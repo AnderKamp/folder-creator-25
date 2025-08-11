@@ -1,1 +1,1 @@
-# Folder Creator 25\nUpdated to allow selecting multiple files directly (no ZIP needed).\n
+# Folder Creator 25\nUI updated: removed 'Sanitize names' option; internal safety kept.\n
